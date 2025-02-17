@@ -1,0 +1,4 @@
+.env
+env
+eWallet-client/node_modules
+__pycache__
